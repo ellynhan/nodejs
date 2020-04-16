@@ -1,0 +1,3 @@
+before the sanitizing
+<script>alert("merong");</script>
+after sanitizing
